@@ -21,4 +21,4 @@ date range, you will need to adjust this.
 this was done as a quick learning example so sloppy coding and other errors may be expected.
 If you find it enjoyable, please let me know! @md_harris
 
-![alt tag](https://raw.github.com/mrecos/TufteTempChart/blob/master/PHL_JPEG.jpg)
+![alt tag](https://github.com/mrecos/TufteTempChart/blob/master/PHL_JPG.jpeg)
