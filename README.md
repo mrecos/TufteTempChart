@@ -1,6 +1,9 @@
 # TufteTempChart
 A ggplot2 implementation of Tufte and Olson's city temperature charts
 
+![alt tag](https://github.com/mrecos/TufteTempChart/blob/master/PHL_JPG.jpeg)
+
+
 Here is my attempt to use ggplot2 to recreate Randy Olson's (@randal_olson), recreation of the famous Tufte New York City Weather chart.
 
 The original Tufte chart is here:
@@ -21,4 +24,3 @@ date range, you will need to adjust this.
 this was done as a quick learning example so sloppy coding and other errors may be expected.
 If you find it enjoyable, please let me know! @md_harris
 
-![alt tag](https://github.com/mrecos/TufteTempChart/blob/master/PHL_JPG.jpeg)
