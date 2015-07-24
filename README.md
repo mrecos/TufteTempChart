@@ -15,11 +15,9 @@ http://fivethirtyeight.com/features/what-12-months-of-record-setting-temperature
 and Randy posted his data and Python code here:
 https://github.com/mrecos/data/tree/master/us-weather-history
 
-This is a ggplot implementation of Randy's basic design, but without the top and right side axis and legend.  I think the legend in Randy's plot may be added in Illustrator of something
+This is a ggplot implementation of Randy's basic design, but without the top and right side axis and legend.  I think the legend in Randy's plot may be added in Illustrator or the like.
 
-The only real hard-code (aside from .csv location) here is the y-axis labels that show the data is from July '14 to June '15, 
-this will still work of any of the data fro the 538 github page, but if you have new data with a different
-date range, you will need to adjust this.
+The only real hard-coding (aside from .csv location) here is the y-axis labels that show the data is from July '14 to June '15, this will still work for any of the data files from the 538 github repo, but if you have new data with a different date range, you will need to adjust this.
 
 this was done as a quick learning example so sloppy coding and other errors may be expected.
 If you find it enjoyable, please let me know! @md_harris
