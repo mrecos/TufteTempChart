@@ -4,6 +4,8 @@ A ggplot2 implementation of Tufte and Olson's city temperature charts
 ![alt tag](https://github.com/mrecos/TufteTempChart/blob/master/PHL_JPG.jpeg)
 
 
+## Added: code example to do the same with geom_linerange instead of geom_rect
+
 Here is my attempt to use ggplot2 to recreate Randy Olson's (@randal_olson), recreation of the famous Tufte New York City Weather chart.
 
 The original Tufte chart is here:
@@ -21,4 +23,5 @@ The only real hard-coding (aside from .csv location) here is the y-axis labels t
 
 this was done as a quick learning example so sloppy coding and other errors may be expected.
 If you find it enjoyable, please let me know! @md_harris
+
 
