@@ -8,7 +8,7 @@ addline_format <- function(x,...){
 }
 
 # read in data
-dat <- read.csv("C:/Users/matthew_harris/Dropbox/R/us-weather-history/KPHL.csv")
+dat <- read.csv("{YOUR FILE LOCATION}/us-weather-history/KPHL.csv")
 city <- "Philadelphia"
 # create an index
 dat$day <- seq(1,365,1)
